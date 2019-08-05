@@ -1,8 +1,8 @@
 
-def my_square(x):
+def my_square(y):
 	""" This does something
 	    adding more docs
 	""" 
-	return (x ** 2)
+	return (y ** 2)
 
-print(my_square(4))
+print(my_square(42))
